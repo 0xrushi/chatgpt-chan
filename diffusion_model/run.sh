@@ -1,0 +1,1 @@
+docker run --rm -it --gpus  all --net host rushi_temp 

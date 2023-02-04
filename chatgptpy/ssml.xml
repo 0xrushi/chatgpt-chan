@@ -1,0 +1,7 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+    <voice name="en-US-JaneNeural">
+        <mstts:express-as style="Angry">
+            "Sorry, but I can only bring along members of the Straw Hat Pirates on my journeys. We're already a big crew, and I need to make sure everyone is safe and taken care of. But if you ever want to join us, you're welcome to try!"
+        </mstts:express-as>
+    </voice>
+</speak>

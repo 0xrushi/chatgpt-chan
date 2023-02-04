@@ -1,0 +1,7 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+    <voice name="en-US-JaneNeural">
+        <mstts:express-as style="neutral">
+            "I'm doin' just fine, why do ya ask?"
+        </mstts:express-as>
+    </voice>
+</speak>

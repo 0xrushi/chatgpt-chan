@@ -1,0 +1,5 @@
+tensorflow
+transformers==4.26.0
+flask
+torch
+gunicorn

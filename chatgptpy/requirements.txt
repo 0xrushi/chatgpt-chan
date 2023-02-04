@@ -1,0 +1,10 @@
+rich 
+playwright 
+python-dotenv 
+PyVirtualDisplay 
+SpeechRecognition 
+pyttsx3 
+azure-cognitiveservices-speech 
+sounddevice 
+soundfile
+cffi>=1.15.1

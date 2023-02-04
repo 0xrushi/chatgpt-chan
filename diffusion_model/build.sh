@@ -1,1 +1,1 @@
-docker build -t "rushi_temp" .
+docker build -t diffusion_model .

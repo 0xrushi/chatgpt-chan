@@ -1,1 +1,1 @@
-docker run --rm -it --gpus  all --net host rushi_temp 
+docker run --rm -it --gpus  all --net host diffusion_model 

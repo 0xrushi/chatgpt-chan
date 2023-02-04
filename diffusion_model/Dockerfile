@@ -19,6 +19,6 @@ COPY app.py ./
 # Specify the command to run the Flask server
 CMD ["python", "app.py"]
 
-# Expose port 5000 to allow external access to the Flask server
+# Expose port 8088 to allow external access to the Flask server
 EXPOSE 8088
 

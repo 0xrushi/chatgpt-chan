@@ -1,7 +1,7 @@
 import requests
 import json
 
-reqUrl = "127.0.0.1:5000/?prompt=panda eating ice cream"
+reqUrl = "127.0.0.1:8088/?prompt=panda eating ice cream"
 
 headersList = {
  "Accept": "*/*",
@@ -9,10 +9,6 @@ headersList = {
  "Content-Type": "application/json" 
 }
 
-payload = json.dumps({
-  "prompt" : "cute anime girl eating ice cream"
-})
-
-response = requests.request("GET", reqUrl, data=payload,  headers=headersList)
+response = requests.request("GET", reqUrl,  headers=headersList)
 
 print(response.text)

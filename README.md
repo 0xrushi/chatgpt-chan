@@ -5,7 +5,7 @@ An implementation of [https://www.insider.com/tiktok-programmer-ai-girlfriend-wa
 🤖 ChatGPT chan is an open-source collection of tools to have your own personal assistant in your projects. With this, you can leverage the power of OpenAI's ChatGPT language model to build conversational interfaces, automate tasks, and more. The library provides a simple API for integrating voice assistant into your projects, making it easy for developers to add AI capabilities to their applications. 
 
 ## Demo 
-[links soon]()
+[https://odysee.com/@rushi:2/chatgptchandemo2:4](https://odysee.com/@rushi:2/chatgptchandemo2:4)
 
 ### Requirements:
 - Python39
@@ -96,6 +96,11 @@ pip install git+https://github.com/mmabrouk/chatgpt-wrapper
 python main.py
 ```
 
+### Current issues 
+
+- Chatgpt wrapper fails sometimes, and we need to switch to some other implementation of chatgpt API and this process goes on
+  
+- The `chatgpt-wrapper`  uses `playwright`, Docker implementation of which seems challenging
 ## Credits
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper), [pyChatGPT](https://github.com/terry3041/pyChatGPT), [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) for unofficial ChatGPT API
 

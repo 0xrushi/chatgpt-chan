@@ -1,5 +1,8 @@
 # ChatGPT-chan
 
+![image](https://github.com/0xrushi/chatgpt-chan/assets/6279035/97660496-0fd3-459e-9cd3-46a89df386c6)
+
+
 An implementation of [https://www.insider.com/tiktok-programmer-ai-girlfriend-waifu-euthanized-stopped-working-chatgpt-2023-1](https://www.insider.com/tiktok-programmer-ai-girlfriend-waifu-euthanized-stopped-working-chatgpt-2023-1)
 
 🤖 ChatGPT chan is an open-source collection of tools to have your own personal assistant in your projects. With this, you can leverage the power of OpenAI's ChatGPT language model to build conversational interfaces, automate tasks, and more. The library provides a simple API for integrating voice assistant into your projects, making it easy for developers to add AI capabilities to their applications. 
